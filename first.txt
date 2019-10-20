@@ -1,2 +1,4 @@
-Hello World
-this is a change
+Hello World.
+Hello World.
+This is a sentence.
+This is a program.
